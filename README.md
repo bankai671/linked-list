@@ -1,1 +1,1 @@
-**My linked list realization on C
+My linked list realization
