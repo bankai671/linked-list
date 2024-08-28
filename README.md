@@ -1,12 +1,16 @@
-My linked list realization
-==========================
+# My linked list realization on C
 
-To compile:
------------
+### Dependencies:
+- gcc [github link](https://github.com/gcc-mirror/gcc)
 
+### To compile:
+```
     make
+```
 
-To run:
--------
-
+### To run:
+```
     ./main
+```
+
+### :P
